@@ -13,3 +13,6 @@ Wenyn-Wang-Portfolio is a one page Bootstrap portfolio theme
 * Mobile friendly contact form with floating form labels
 * Easy to edit PHP file to make the contact form send messages
 * Includes jqBootstrapValidation plugin for contact form validation
+
+## Special Thanks
+http://startbootstrap.com/
